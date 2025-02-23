@@ -1,6 +1,10 @@
 ## Hi there 👋
 
 <!--
+"Virtual Machine Management on Azure" https://github.com/gabomartini/Azure-VM-Management
+"Building Secure Virtual Networks on Azure" https://github.com/gabomartini/Azure-Vnet-Secure-Deployment
+"Using Azure Monitor, Alerts, and Log Analytics" https://github.com/gabomartini/Azure-Monitor-and-Alerts
+https://www.linkedin.com/in/gabomartini/
 **gabomartini/gabomartini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
