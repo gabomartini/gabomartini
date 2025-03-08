@@ -5,6 +5,8 @@ Here are some personal projects:
 
 [Using Azure Monitor, Alerts, and Log Analytics](https://github.com/gabomartini/Azure-Monitor-and-Alerts)
 
+[Entra ID Management on Azure](https://github.com/gabomartini/Entra-ID-Management)
+
 [Threat Hunting in Microsoft Defender for Office 365](https://github.com/gabomartini/Threat-Hunting-in-MDO365)
 
 
