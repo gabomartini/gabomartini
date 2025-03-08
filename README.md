@@ -5,6 +5,7 @@ Here are some personal projects:
 
 [Using Azure Monitor, Alerts, and Log Analytics](https://github.com/gabomartini/Azure-Monitor-and-Alerts)
 
+[Threat Hunting in Microsoft Defender for Office 365](https://github.com/gabomartini/Threat-Hunting-in-MDO365)
 
 
 <div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">Connect with me 📲</h2><a id="user-content-connect-with-me" class="anchor" aria-label="Permalink: 🤳Connect with me:" href="#connect-with-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
