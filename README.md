@@ -3,11 +3,11 @@ Here are some personal projects:
 
 [Virtual Machine Management on Azure](https://github.com/gabomartini/Azure-VM-Management)
 
-[Using Azure Monitor, Alerts, and Log Analytics](https://github.com/gabomartini/Azure-Monitor-and-Alerts)
-
 [Entra ID Management on Azure](https://github.com/gabomartini/Entra-ID-Management)
 
 [Create and Configure Secure Storage Accounts](https://github.com/gabomartini/Azure-Storage-Management)
+
+[Using Azure Monitor, Alerts, and Log Analytics](https://github.com/gabomartini/Azure-Monitor-and-Alerts)
 
 [Implementing Azure Backup and Disaster Recovery](https://github.com/gabomartini/Azure-Backup-Disaster-Recovery)
 
