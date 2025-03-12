@@ -1,5 +1,5 @@
 ## 🤖 Hi, my name is Gabo, I am a Cloud Cybersecurity Professional.
-Here are some personal projects:
+*Here are some personal projects:*
 | Azure  | Cybersecurity  |
 |:---------:|:---------:|
 | [Virtual Machine Management on Azure](https://github.com/gabomartini/Azure-VM-Management) | [Threat Hunting in Microsoft Defender for Office 365](https://github.com/gabomartini/Threat-Hunting-in-MDO365) |
