@@ -4,7 +4,7 @@
 |:---------:|:---------:|
 | [Virtual Machine Management on Azure](https://github.com/gabomartini/Azure-VM-Management) | [Threat Hunting in Microsoft Defender for Office 365](https://github.com/gabomartini/Threat-Hunting-in-MDO365) |
 | [Entra ID Management on Azure](https://github.com/gabomartini/Entra-ID-Management) | [Securing Cloud Workloads with Microsoft Defender for Cloud](https://github.com/gabomartini/Defender-for-Cloud-Security) |
-| [Create and Configure Secure Storage Accounts](https://github.com/gabomartini/Azure-Storage-Management) | 
+| [Create and Configure Secure Storage Accounts](https://github.com/gabomartini/Azure-Storage-Management) | [Security Operations with Microsoft Defender for Endpoint](https://github.com/gabomartini/SecOps-Defender-for-Endpoint) |
 | [Using Azure Monitor, Alerts, and Log Analytics](https://github.com/gabomartini/Azure-Monitor-and-Alerts)  | 
 | [Implementing Azure Backup and Disaster Recovery](https://github.com/gabomartini/Azure-Backup-Disaster-Recovery)  | 
 
