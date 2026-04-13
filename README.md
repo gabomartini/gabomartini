@@ -1,10 +1,10 @@
 ## 🤖 Hi, my name is Gabo, I'm a Cloud Cybersecurity Professional.
 
 *Here is my Portfolio:*
-| Tenable  | Sentinel  |
+| Tenable (similar to Greenbone, Qualys and Rapid7) | Sentinel  |
 |:---------:|:---------:|
 | [Vulnerability Management Program Implementation](https://github.com/gabomartini/Vulnerability-Management-Program) | [Threat Hunting and Security Operations]() |
-| [Security Technical Implementation Guide - STIGs](https://github.com/gabomartini/STIGs) | []() |
+| [Security Technical Implementation Guides - STIGs](https://github.com/gabomartini/STIGs) | []() |
 | [PowerShell Remediations](https://github.com/gabomartini/PowerShell-Remediations) | []() |
 
 ---
