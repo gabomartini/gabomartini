@@ -7,7 +7,7 @@
 ## Threat Hunting and Security Operations
 
 
-
+---
 
 *Here are some other personal projects:*
 | Azure  | Microsoft Security  |
