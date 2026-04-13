@@ -1,21 +1,15 @@
 ## 🤖 Hi, my name is Gabo, I'm a Cloud Cybersecurity Professional.
 
 *Here is my Portfolio:*
-
-## Tenable
-[Vulnerability Management Program Implementation](https://github.com/gabomartini/Vulnerability-Management-Program)
-
-[Security Technical Implementation Guide - STIGs](https://github.com/gabomartini/STIGs)
-
-[PowerShell Remediations](https://github.com/gabomartini/PowerShell-Remediations)
-
-## Sentinel
-### Threat Hunting and Security Operations
-
+| Tenable  | Sentinel  |
+|:---------:|:---------:|
+| [Vulnerability Management Program Implementation](https://github.com/gabomartini/Vulnerability-Management-Program) | [Threat Hunting and Security Operations]() |
+| [Security Technical Implementation Guide - STIGs](https://github.com/gabomartini/STIGs) | []() |
+| [PowerShell Remediations](https://github.com/gabomartini/PowerShell-Remediations) | []() |
 
 ---
 
-*Here are some other personal projects:*
+*... and here are some other personal projects:*
 | Azure  | Microsoft Security  |
 |:---------:|:---------:|
 | [Virtual Machine Management on Azure](https://github.com/gabomartini/Azure-VM-Management) | [Threat Hunting in Microsoft Defender for Office 365](https://github.com/gabomartini/Threat-Hunting-in-MDO365) |
