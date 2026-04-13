@@ -1,10 +1,16 @@
 ## 🤖 Hi, my name is Gabo, I'm a Cloud Cybersecurity Professional.
 
-*Portfolio:*
+*Here is my Portfolio:*
 
-## Vulnerability Management Program Implementation
+## Tenable
+[Vulnerability Management Program Implementation](https://github.com/gabomartini/Vulnerability-Management-Program)
 
-## Threat Hunting and Security Operations
+[Security Technical Implementation Guide - STIGs](https://github.com/gabomartini/STIGs)
+
+[PowerShell Remediations](https://github.com/gabomartini/PowerShell-Remediations)
+
+## Sentinel
+### Threat Hunting and Security Operations
 
 
 ---
