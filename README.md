@@ -1,4 +1,4 @@
-## 🤖 Hi, my name is Gabo, I am a Cloud Cybersecurity Professional.
+## 🤖 Hi, my name is Gabo, I'm a Cloud Cybersecurity Professional.
 
 *Portfolio:*
 
