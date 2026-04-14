@@ -3,9 +3,7 @@
 *Here is my Portfolio:*
 | <img src="https://github.com/user-attachments/assets/3811c856-3af4-46f0-9d49-33d7c4629795" width="30" align="middle"><br> TENABLE | <img src="https://github.com/user-attachments/assets/488516cf-24f3-497d-854d-59daa09a305f" width="30" align="middle"><br> LOG ANALYTICS WORKSPACES  |
 |:---------:|:---------:|
-| [Vulnerability Management Program Implementation](https://github.com/gabomartini/Vulnerability-Management-Program) | [Threat Hunting and Security Operations]() |
-| [Security Technical Implementation Guides - STIGs](https://github.com/gabomartini/STIGs) | []() |
-| [PowerShell Remediations](https://github.com/gabomartini/PowerShell-Remediations) | []() |
+| [Vulnerability Management Program Implementation](https://github.com/gabomartini/Vulnerability-Management-Program) | [Threat Hunt Report: Unauthorized TOR Usage](https://github.com/gabomartini/threat-hunting-scenario) |
 
 *... and here are some other personal projects:*
 
@@ -16,6 +14,10 @@
 | [Create and Configure Secure Storage Accounts](https://github.com/gabomartini/Azure-Storage-Management) | [Security Operations with Microsoft Defender for Endpoint](https://github.com/gabomartini/SecOps-Defender-for-Endpoint) |
 | [Using Azure Monitor, Alerts, and Log Analytics](https://github.com/gabomartini/Azure-Monitor-and-Alerts)  |  [Securing Enterprise Applications with Defender for Cloud Apps](https://github.com/gabomartini/Defender-Cloud-Apps-Sec) |
 | [Implementing Azure Backup and Disaster Recovery](https://github.com/gabomartini/Azure-Backup-Disaster-Recovery)  |  [Optimized Threat Hunting with Microsoft Sentinel](https://github.com/gabomartini/Threat-Hunting-Sentinel) |
+
+[Security Technical Implementation Guides - STIGs](https://github.com/gabomartini/STIGs)
+
+[PowerShell Remediations](https://github.com/gabomartini/PowerShell-Remediations)
 
 <h2>Connect with me 📲</h2>
 
