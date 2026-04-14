@@ -16,10 +16,8 @@
 | [Implementing Azure Backup and Disaster Recovery](https://github.com/gabomartini/Azure-Backup-Disaster-Recovery)  |  [Optimized Threat Hunting with Microsoft Sentinel](https://github.com/gabomartini/Threat-Hunting-Sentinel) |
 
 *Extra stuff:*
-
-[Security Technical Implementation Guides - STIGs](https://github.com/gabomartini/STIGs)
-
-[PowerShell Remediations](https://github.com/gabomartini/PowerShell-Remediations)
+- [Security Technical Implementation Guides - STIGs](https://github.com/gabomartini/STIGs)
+- [PowerShell Remediations](https://github.com/gabomartini/PowerShell-Remediations)
 
 <h2>Connect with me 📲</h2>
 
