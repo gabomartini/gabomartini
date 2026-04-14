@@ -24,7 +24,7 @@
     <img 
       src="https://github.com/user-attachments/assets/ffea4f38-3dbd-4243-aca5-3ac2ee1eb87f" 
       alt="LinkedIn" 
-      width="50" 
+      width="30" 
       height="auto" 
       style="vertical-align:middle; margin-right: 8px;"
     />
