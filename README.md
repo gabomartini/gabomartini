@@ -24,10 +24,10 @@
 <p>
   <a href="https://www.linkedin.com/in/gabomartini/" target="_blank" rel="noopener noreferrer">
     <img 
-      src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" 
+      src="https://github.com/user-attachments/assets/f13668b2-6248-4241-ae6a-ade5158a2233" 
       alt="LinkedIn" 
-      width="30" 
-      height="30" 
+      width="60" 
+      height="auto" 
       style="vertical-align:middle; margin-right: 8px;"
     />
   </a>
