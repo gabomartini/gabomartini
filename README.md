@@ -4,7 +4,7 @@
 
 | <img src="https://github.com/user-attachments/assets/3811c856-3af4-46f0-9d49-33d7c4629795" width="30"><br>**TENABLE** | <img src="https://github.com/user-attachments/assets/41db2995-c610-4340-a5cd-9fb934a2e6f2" width="30"><br>**MICROSOFT DEFENDER** |
 | :---: | :---: |
-| [Vulnerability Management Program Implementation](https://github.com/gabomartini/Vulnerability-Management-Program) | [Threat Hunt Report: Unauthorized TOR Usage](https://github.com) |
+| [Vulnerability Management Program Implementation](https://github.com/gabomartini/Vulnerability-Management-Program) | [Threat Hunt Report: Unauthorized TOR Usage](https://github.com/gabomartini/threat-hunting-scenario) |
 
 ***...and here are some other personal projects:***
 
