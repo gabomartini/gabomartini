@@ -7,8 +7,6 @@
 | [Security Technical Implementation Guides - STIGs](https://github.com/gabomartini/STIGs) | []() |
 | [PowerShell Remediations](https://github.com/gabomartini/PowerShell-Remediations) | []() |
 
----
-
 *... and here are some other personal projects:*
 
 | <img src="https://github.com/user-attachments/assets/8e833fe7-e6e5-4830-94b4-639a5d0fa3f6" width="30" align="middle"><br> AZURE | <img src="https://github.com/user-attachments/assets/894a1104-81b4-449a-a90d-2da713f0a47d" width="30" align="middle"><br> MICROSOFT SECURITY |
@@ -24,9 +22,9 @@
 <p>
   <a href="https://www.linkedin.com/in/gabomartini/" target="_blank" rel="noopener noreferrer">
     <img 
-      src="https://github.com/user-attachments/assets/f13668b2-6248-4241-ae6a-ade5158a2233" 
+      src="https://github.com/user-attachments/assets/ffea4f38-3dbd-4243-aca5-3ac2ee1eb87f" 
       alt="LinkedIn" 
-      width="60" 
+      width="50" 
       height="auto" 
       style="vertical-align:middle; margin-right: 8px;"
     />
@@ -34,6 +32,7 @@
 
   <!-- Add more icons here if needed -->
 </p>
+
 
 
 <!--
