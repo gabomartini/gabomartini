@@ -1,7 +1,7 @@
 ## 🤖 Hi, my name is Gabo, I'm a Cloud Cybersecurity Professional.
 
 *Here is my Portfolio:*
-| <img src="https://companieslogo.com/img/orig/TENB.D-9c0aca48.png" width="30" align="middle"><br> TENABLE | Sentinel  |
+| <img src="https://github.com/user-attachments/assets/3811c856-3af4-46f0-9d49-33d7c4629795" width="30" align="middle"><br> TENABLE | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/azure-log-analytics-workspaces.png" width="30" align="middle"><br> LOG ANALYTICS WORKSPACES  |
 |:---------:|:---------:|
 | [Vulnerability Management Program Implementation](https://github.com/gabomartini/Vulnerability-Management-Program) | [Threat Hunting and Security Operations]() |
 | [Security Technical Implementation Guides - STIGs](https://github.com/gabomartini/STIGs) | []() |
