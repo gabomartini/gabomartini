@@ -1,7 +1,7 @@
 ## 🤖 Hi, my name is Gabo, I'm a Cloud Cybersecurity Professional.
 
 *Here is my Portfolio:*
-| <img src="https://github.com/user-attachments/assets/3811c856-3af4-46f0-9d49-33d7c4629795" width="30" align="middle"><br> TENABLE | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/azure-log-analytics-workspaces.png" width="30" align="middle"><br> LOG ANALYTICS WORKSPACES  |
+| <img src="https://github.com/user-attachments/assets/3811c856-3af4-46f0-9d49-33d7c4629795" width="30" align="middle"><br> TENABLE | <img src="https://github.com/user-attachments/assets/488516cf-24f3-497d-854d-59daa09a305f" width="30" align="middle"><br> LOG ANALYTICS WORKSPACES  |
 |:---------:|:---------:|
 | [Vulnerability Management Program Implementation](https://github.com/gabomartini/Vulnerability-Management-Program) | [Threat Hunting and Security Operations]() |
 | [Security Technical Implementation Guides - STIGs](https://github.com/gabomartini/STIGs) | []() |
@@ -11,7 +11,7 @@
 
 *... and here are some other personal projects:*
 
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/250px-Microsoft_Azure.svg.png" width="30" align="middle"><br> AZURE | <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Microsoft_Defender_Icon_Logo_2025_English.svg/960px-Microsoft_Defender_Icon_Logo_2025_English.svg.png" width="30" align="middle"><br> MICROSOFT SECURITY |
+| <img src="https://github.com/user-attachments/assets/8e833fe7-e6e5-4830-94b4-639a5d0fa3f6" width="30" align="middle"><br> AZURE | <img src="https://github.com/user-attachments/assets/894a1104-81b4-449a-a90d-2da713f0a47d" width="30" align="middle"><br> MICROSOFT SECURITY |
 |:---------:|:---------:|
 | [Virtual Machine Management on Azure](https://github.com/gabomartini/Azure-VM-Management) | [Threat Hunting in Microsoft Defender for Office 365](https://github.com/gabomartini/Threat-Hunting-in-MDO365) |
 | [Entra ID Management on Azure](https://github.com/gabomartini/Entra-ID-Management) | [Securing Cloud Workloads with Microsoft Defender for Cloud](https://github.com/gabomartini/Defender-for-Cloud-Security) |
