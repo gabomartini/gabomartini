@@ -1,4 +1,5 @@
 ## 🤖 Hi, my name is Gabo, I'm a Cloud Cybersecurity Professional..
+
 ***Here is my Portfolio:***
 
 | <img src="https://github.com/user-attachments/assets/3811c856-3af4-46f0-9d49-33d7c4629795" width="30"><br>**TENABLE** | <img src="https://github.com/user-attachments/assets/41db2995-c610-4340-a5cd-9fb934a2e6f2" width="30"><br>**MICROSOFT DEFENDER** |
@@ -33,26 +34,6 @@
     />
   </a>
 
-  <!-- Add more icons here if needed -->
 </p>
 
 
-
-<!--
-"Virtual Machine Management on Azure" https://github.com/gabomartini/Azure-VM-Management
-"Building Secure Virtual Networks on Azure" https://github.com/gabomartini/Azure-Vnet-Secure-Deployment
-"Using Azure Monitor, Alerts, and Log Analytics" https://github.com/gabomartini/Azure-Monitor-and-Alerts
-https://www.linkedin.com/in/gabomartini/
-**gabomartini/gabomartini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
