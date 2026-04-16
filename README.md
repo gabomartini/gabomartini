@@ -1,5 +1,4 @@
-## 🤖 Hi, my name is Gabo, I'm a Cloud Cybersecurity Professional.
-
+## 🤖 Hi, my name is Gabo, I'm a Cloud Cybersecurity Professional..
 ***Here is my Portfolio:***
 
 | <img src="https://github.com/user-attachments/assets/3811c856-3af4-46f0-9d49-33d7c4629795" width="30"><br>**TENABLE** | <img src="https://github.com/user-attachments/assets/41db2995-c610-4340-a5cd-9fb934a2e6f2" width="30"><br>**MICROSOFT DEFENDER** |
@@ -16,13 +15,10 @@
 | [Using Azure Monitor, Alerts, and Log Analytics](https://github.com/gabomartini/Azure-Monitor-and-Alerts) | [Securing Enterprise Applications with Defender for Cloud Apps](https://github.com/gabomartini/Defender-Cloud-Apps-Sec) |
 | [Implementing Azure Backup and Disaster Recovery](https://github.com/gabomartini/Azure-Backup-Disaster-Recovery) | [Optimized Threat Hunting with Microsoft Sentinel](https://github.com/gabomartini/Threat-Hunting-Sentinel) |
 
-***Extra stuff:***
-
-| [Security Technical Implementation Guides - STIGs](https://github.com/gabomartini/STIGs) | 
-|:---|
-| [PowerShell Remediations](https://github.com/gabomartini/PowerShell-Remediations) | 
-
-
+| ***Threat Hunt Challenges:*** | ***Extra stuff:*** |
+| :---: | :---: |
+| [EmberForge, Source Leak](https://github.com/gabomartini/Threat-Hunt-Report-EmberForge-Source-Leak/) | [Security Technical Implementation Guides - STIGs](https://github.com/gabomartini/STIGs) |
+| [Scattered Invoice, BEC Investigation](https://github.com/gabomartini/Threat-Hunt-Report-Scattered-Invoice-BEC-Investigation/) | [PowerShell Remediations](https://github.com/gabomartini/PowerShell-Remediations) |
 
 <h2>Connect with me 📲</h2>
 
