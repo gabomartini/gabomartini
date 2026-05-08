@@ -20,6 +20,7 @@
 | :---: | :---: |
 | [EmberForge, Source Leak](https://github.com/gabomartini/Threat-Hunt-Report-EmberForge-Source-Leak/) | [Security Technical Implementation Guides - STIGs](https://github.com/gabomartini/STIGs) |
 | [Scattered Invoice, BEC Investigation](https://github.com/gabomartini/Threat-Hunt-Report-Scattered-Invoice-BEC-Investigation/) | [PowerShell Remediations](https://github.com/gabomartini/PowerShell-Remediations) |
+| [Signals Before The Noise](https://github.com/gabomartini/Threat-Hunt-Report-Signals-Before-the-Noise) | |
 
 <h2>Connect with me 📲</h2>
 
